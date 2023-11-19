@@ -1,0 +1,4 @@
+﻿  PR19.cpp
+D:\Visual Studio проекти\PR19\PR19\PR19.cpp(44,18): warning C4566: character represented by universal-character-name '\u2192' cannot be represented in the current code page (1251)
+D:\Visual Studio проекти\PR19\PR19\PR19.cpp(44,18): warning C4566: character represented by universal-character-name '\u221E' cannot be represented in the current code page (1251)
+  PR19.vcxproj -> D:\Visual Studio проекти\PR19\x64\Debug\PR19.exe
